@@ -1,0 +1,11 @@
+{
+  "name": "hyperdrive-fuse",
+  "version": "0.1.0",
+  "description": "FUSE mount for Hyperdrive v11 — read-only MVP",
+  "dependencies": {
+    "fuse-native": "*",
+    "corestore": "7.10.0",
+    "hyperdrive": "13.3.2",
+    "b4a": "1.8.1"
+  }
+}
